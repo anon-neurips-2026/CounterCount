@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ### Data
 
-Download the CounterCount benchmark from the link provided in the supplementary material and place it under `data/CounterCount/` following the structure described in [`data/README.md`](data/README.md).
+Download the CounterCount dataset from the link provided in the supplementary material and place it under `data/CounterCount/` following the structure described in [`data/README.md`](data/README.md).
 
 ## Usage
 
