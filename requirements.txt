@@ -1,0 +1,9 @@
+torch>=2.1.0
+transformers>=4.46.0
+Pillow>=10.0.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+inflect>=7.0.0
+word2number>=1.1
+prettytable>=3.9.0
+tqdm>=4.65.0

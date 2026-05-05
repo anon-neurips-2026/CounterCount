@@ -1,0 +1,197 @@
+[
+  {
+    "name": "baseline",
+    "config": {
+      "operation_mode": "baseline"
+    }
+  },
+  {
+    "name": "amplify_all",
+    "config": {
+      "operation_mode": "amplify_all"
+    }
+  },
+  {
+    "name": "amplify_all_early",
+    "config": {
+      "operation_mode": "amplify_all",
+      "modify_layers": "early"
+    }
+  },
+  {
+    "name": "amplify_all_middle",
+    "config": {
+      "operation_mode": "amplify_all",
+      "modify_layers": "middle"
+    }
+  },
+  {
+    "name": "amplify_all_late",
+    "config": {
+      "operation_mode": "amplify_all",
+      "modify_layers": "late"
+    }
+  },
+  {
+    "name": "amplify_target",
+    "config": {
+      "operation_mode": "amplify_target"
+    }
+  },
+  {
+    "name": "amplify_target_early",
+    "config": {
+      "operation_mode": "amplify_target",
+      "modify_layers": "early"
+    }
+  },
+  {
+    "name": "amplify_target_middle",
+    "config": {
+      "operation_mode": "amplify_target",
+      "modify_layers": "middle"
+    }
+  },
+  {
+    "name": "amplify_target_late",
+    "config": {
+      "operation_mode": "amplify_target",
+      "modify_layers": "late"
+    }
+  },
+  {
+    "name": "amplify_target_dampen_rest",
+    "config": {
+      "operation_mode": "amplify_target_dampen_rest"
+    }
+  },
+  {
+    "name": "amplify_target_dampen_rest_early",
+    "config": {
+      "operation_mode": "amplify_target_dampen_rest",
+      "modify_layers": "early"
+    }
+  },
+  {
+    "name": "amplify_target_dampen_rest_middle",
+    "config": {
+      "operation_mode": "amplify_target_dampen_rest",
+      "modify_layers": "middle"
+    }
+  },
+  {
+    "name": "amplify_target_dampen_rest_late",
+    "config": {
+      "operation_mode": "amplify_target_dampen_rest",
+      "modify_layers": "late"
+    }
+  },
+  {
+    "name": "amplify_target_suppress_rest",
+    "config": {
+      "operation_mode": "amplify_target_suppress_rest"
+    }
+  },
+  {
+    "name": "amplify_target_suppress_rest_early",
+    "config": {
+      "operation_mode": "amplify_target_suppress_rest",
+      "modify_layers": "early"
+    }
+  },
+  {
+    "name": "amplify_target_suppress_rest_middle",
+    "config": {
+      "operation_mode": "amplify_target_suppress_rest",
+      "modify_layers": "middle"
+    }
+  },
+  {
+    "name": "amplify_target_suppress_rest_late",
+    "config": {
+      "operation_mode": "amplify_target_suppress_rest",
+      "modify_layers": "late"
+    }
+  },
+  {
+    "name": "dampen_all",
+    "config": {
+      "operation_mode": "dampen_all"
+    }
+  },
+  {
+    "name": "dampen_all_early",
+    "config": {
+      "operation_mode": "dampen_all",
+      "modify_layers": "early"
+    }
+  },
+  {
+    "name": "dampen_all_middle",
+    "config": {
+      "operation_mode": "dampen_all",
+      "modify_layers": "middle"
+    }
+  },
+  {
+    "name": "dampen_all_late",
+    "config": {
+      "operation_mode": "dampen_all",
+      "modify_layers": "late"
+    }
+  },
+  {
+    "name": "dampen_rest",
+    "config": {
+      "operation_mode": "dampen_rest"
+    }
+  },
+  {
+    "name": "dampen_rest_early",
+    "config": {
+      "operation_mode": "dampen_rest",
+      "modify_layers": "early"
+    }
+  },
+  {
+    "name": "dampen_rest_middle",
+    "config": {
+      "operation_mode": "dampen_rest",
+      "modify_layers": "middle"
+    }
+  },
+  {
+    "name": "dampen_rest_late",
+    "config": {
+      "operation_mode": "dampen_rest",
+      "modify_layers": "late"
+    }
+  },
+  {
+    "name": "suppress_rest",
+    "config": {
+      "operation_mode": "suppress_rest"
+    }
+  },
+  {
+    "name": "suppress_rest_early",
+    "config": {
+      "operation_mode": "suppress_rest",
+      "modify_layers": "early"
+    }
+  },
+  {
+    "name": "suppress_rest_middle",
+    "config": {
+      "operation_mode": "suppress_rest",
+      "modify_layers": "middle"
+    }
+  },
+  {
+    "name": "suppress_rest_late",
+    "config": {
+      "operation_mode": "suppress_rest",
+      "modify_layers": "late"
+    }
+  }
+]
