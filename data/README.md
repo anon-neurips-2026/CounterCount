@@ -1,4 +1,4 @@
-The CounterCount benchmark data is provided to reviewers via the supplementary material link.
+The CounterCount benchmark data is provided to reviewers via the link.
 
 Place the dataset here with the following structure:
 
