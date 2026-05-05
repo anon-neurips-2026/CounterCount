@@ -2,7 +2,7 @@
 
 > **Anonymous submission — do not distribute.**
 
-This repository provides the code for **CounterCount**, a counterfactual counting benchmark and attention-modulation framework for diagnosing and mitigating counting bias in Vision-Language Models (VLMs).
+This repository provides the code for **CounterCount**, a counterfactual counting dataset and attention-modulation framework for diagnosing and mitigating counting bias in Vision-Language Models (VLMs).
 
 ## Overview
 
