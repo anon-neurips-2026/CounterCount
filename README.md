@@ -1,4 +1,4 @@
-# CounterCount: Probing and Mitigating Counting Bias in Vision-Language Models
+# CounterCount: A Diagnostic Framework for Counting Bias in Vision Language Models
 
 > **Anonymous submission — do not distribute.**
 
@@ -10,7 +10,7 @@ VLMs frequently default to canonical world knowledge (e.g., "a rabbit has two ea
 
 ### Key contributions
 
-1. **CounterCount benchmark** — 168 factual–counterfactual image pairs across 10 semantic categories with region-level mask and bounding-box annotations.
+1. **CounterCount dataset** — 168 factual–counterfactual image pairs across 10 semantic categories with region-level mask and bounding-box annotations.
 2. **Systematic bias analysis** — Evaluation of Qwen3-VL (4B/8B/32B), Gemma3 (4B/12B/27B), and Claude-haiku-4.5 revealing consistent accuracy drops under counterfactual edits.
 3. **Unified attention modulation** — A single-parameter logit-shift mechanism that amplifies target visual tokens, dampens background tokens, or masks them entirely during inference.
 
